@@ -10,7 +10,7 @@ public class Factorial {
 		int N =in.nextInt();
 		
 		System.out.println(A.factR(N));
-		System.out.println("enter a new number");
+		System.out.println("enter a new number is");
 		
 		
 	}
